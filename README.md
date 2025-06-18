@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Sai Sarat Chandra
 
-<!--
-**saratlabs/saratlabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **AI & Data Science Explorer**  
+💼 Currently working on 4 real-world DSAI projects:
 
-Here are some ideas to get you started:
+- 🔭 **Solar Studies**: Forecasting solar storms, CMEs & flares  
+- 🧬 **Genomics & Personalized Medicine**: Predicting disease from genetic markers  
+- 🕵️‍♂️ **AML & Financial Crime**: Detecting money laundering & fraud  
+- 💰 **FinTech Analytics**: Investment trends, M&A predictions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tech Stack
+`Python` `Pandas` `Scikit-Learn` `TensorFlow` `Google Colab` `Streamlit` `NLP` `Time Series` `ML & AI`
+
+---
+
+### 🔗 Let's Connect
+- 📫 Email: *saisarat2230@gmail.com*
+- 🔗 LinkedIn: 
+
+---
+
+> “Know the Cosmos. Know Thyself. Guard the World.”
