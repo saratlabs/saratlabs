@@ -17,7 +17,7 @@
 
 ### 🔗 Let's Connect
 - 📫 Email: *saisarat2230@gmail.com*
-- 🔗 LinkedIn: 
+- 🔗 LinkedIn: https://www.linkedin.com/in/sai-sarat/
 
 ---
 
