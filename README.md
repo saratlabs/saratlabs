@@ -2,7 +2,7 @@
 
 🎯 **AI & Data Science Explorer**  
 
-Welcome to my curated portfolio of Data Science and Machine Learning projects, developed as part of my journey in building real-world, interdisciplinary AI systems. These projects span diverse domains such as **Economics, FinTech, Pharmaceuticals, Solar Research, Financial Crime Detection**, and **Taxation Systems**.
+Welcome to my curated portfolio of Data Science and Machine Learning projects, developed as part of my journey in building real-world, interdisciplinary AI systems. These projects span diverse domains such as **Economics, FinTech, Pharmaceuticals, Solar Research, and Financial Crime Detection**.
 
 Each project in this portfolio follows a **structured, research-backed pipeline** that includes:
 - Problem Identification and Theoretical Foundation
