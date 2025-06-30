@@ -14,17 +14,14 @@ Each project in this portfolio follows a **structured, research-backed pipeline*
 
 ### Live GitHub Projects Overview
 
-| # | Domain              | Project Title                                                                    | Techniques Used                        | Status         |
-|---|---------------------|----------------------------------------------------------------------------------|----------------------------------------|----------------|
-| 1 | **Econometrics**    | 📈 Fuel Price Index vs Transport Inflation (India)                               | Linear & Bivariate Regression          | Completed    |
-| 2 | **Econometrics**    | 📊 Sectoral Inflation Forecasting (Food, Fuel, Transport CPI)                    | Time Series + Multi-variate Regression | Upcoming     |
-| 3 | **Econometrics**    | 🌍 Unemployment Rate Analysis: India vs Nordics                                  | XGBoost, Panel Regression              | In Planning  |
-| 4 | **FinTech**         | 💰 Investment & M&A Prediction Framework                                          | Equity Valuation + ML Clustering       | Ongoing      |
-| 5 | **FinCrime (AML)**  | 🛡️ Anti-Money Laundering Detection System (Unified Rules + ML)                  | Rule-based + Isolation Forest          | Resuming     |
-| 6 | **Pharma (Genomics)**| 🧬 Personalized Medicine: Drug Response Modelling with Gene Expression          | PCA, Clustering, Regression            | Planned      |
-| 7 | **Solar Physics**   | ☀️ Solar Weather Time Series Analysis & Prediction (AI for Solar Flares & CME)   | LSTM, Fourier, Regression              | Planned      |
-| 8 | **Taxation (India)**| 📄 GST Filing Automation via AI (GSTR-1 to GSTR-9)                                | OCR, NLP, ML Classification            | In Research  |
-| 9 | **Consumer Behavior**| 🧵 Influence of Social Media on Buying Decisions                                 | NLP + Logistic Regression + SVM        | Added        |
+| # | Domain                         | Project Title                                                                             | Techniques Used                                             | Status        |
+| - | ------------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------- |
+| 1 | **Solar Physics**              | ☀️ **Solar Weather Time Series Analysis & Prediction** <br> *(AI for Solar Flares & CME)* | **LSTM, Fourier Transform, Regression**                     | **Planned**   |
+| 2 | **FinCrime (AML)**             | 🛡️ **Anti-Money Laundering Detection System** <br> *(Unified Rules + ML)*                | **Rule-based Logic, Isolation Forest, Red Flag Indicators** | **Resuming**  |
+| 3 | **Pharma (Genomics)**          | 🧬 **Personalized Medicine: Drug Response Modelling with Gene Expression**                | **PCA, Clustering, Regression**                             | **Planned**   |
+| 4 | **FinTech**                    | 💰 **Investment & M\&A Prediction Framework**                                             | **Equity Valuation Metrics, ML Clustering, Regression**     | **Ongoing**   |
+| 5 | **Econometrics**               | 📈 **Fuel Price Index vs Transport Inflation (India)**                                    | **Linear Regression, Bivariate Analysis**                   | **Completed** |
+| 6 | **Econometrics (Forecasting)** | 📊 **Sectoral Inflation Forecasting** <br> *(Food, Fuel, Transport CPI)*                  | **Time Series Analysis, Multi-variate Regression**          | **Upcoming**  |
 
 ---
 
