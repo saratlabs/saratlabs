@@ -19,9 +19,12 @@ Each project in this portfolio follows a **structured, research-backed pipeline*
 | 1 | **Solar Physics**              | ☀️ **Solar Weather Time Series Analysis & Prediction** <br> *(AI for Solar Flares & CME)* | **LSTM, Fourier Transform, Regression**                     | **Planned**   |
 | 2 | **FinCrime (AML)**             | 🛡️ **Anti-Money Laundering Detection System** <br> *(Unified Rules + ML)*                | **Rule-based Logic, Isolation Forest, Red Flag Indicators** | **Completed**  |
 | 3 | **Pharma (Genomics)**          | 🧬 **Personalized Medicine: Drug Response Modelling with Gene Expression**                | **PCA, Clustering, Regression**                             | **Planned**   |
-| 4 | **FinTech**                    | 💰 **Investment & M\&A Prediction Framework**                                             | **Equity Valuation Metrics, ML Clustering, Regression**     | **Ongoing**   |
+| 4 | **FinTech**                    | 💰 **Investment & M\&A Prediction Framework**                                             | **Equity Valuation Metrics, ML Clustering, Regression**     | **Completed**   |
 | 5 | **Econometrics**               | 📈 **Fuel Price Index vs Transport Inflation (India)**                                    | **Linear Regression, Bivariate Analysis**                   | **Completed** |
 | 6 | **Econometrics (Forecasting)** | 📊 **Sectoral Inflation Forecasting** <br> *(Food, Fuel, Transport CPI)*                  | **Time Series Analysis, Multi-variate Regression**          | **Upcoming**  |
+| 7	| **Automotive CV**	             | 🚦 **Traffic Sign Recognition (GTSRB)(DL for Autonomous Driving)**                         |  **CNN, Transfer Learning, Image Augmentation**             | **Planned**  |
+| 8 | **Automotive Analytics**       | ⚙️ **Vehicle Maintenance Cost Prediction**                                                 |  **Regression, EDA, XGBoost**                               | **Planned**  |
+| 9 | **Smart Mobility**             | 🔋 **EV Charging Station Recommender System**                                              |  **GeoFiltering, Recommender Systems, Haversine Distance**  | **Planned**  |
 
 ---
 
