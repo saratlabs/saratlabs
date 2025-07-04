@@ -16,7 +16,7 @@ Each project in this portfolio follows a **structured, research-backed pipeline*
 
 | # | Domain                         | Project Title                                                                             | Techniques Used                                             | Status        |
 | - | ------------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------- |
-| 1 | **Solar Physics**              | ☀️ **Solar Weather Time Series Analysis & Prediction** <br> *(AI for Solar Flares & CME)* | **LSTM, Fourier Transform, Regression**                     | **Planned**   |
+| 1 | **Solar Physics**              | ☀️ **Solar Weather Time Series Analysis & Prediction** <br> *(AI for Solar Flares & CME)* | **LSTM, Fourier Transform, Regression**                     | **Completed**   |
 | 2 | **FinCrime (AML)**             | 🛡️ **Anti-Money Laundering Detection System** <br> *(Unified Rules + ML)*                | **Rule-based Logic, Isolation Forest, Red Flag Indicators** | **Completed**  |
 | 3 | **Pharma (Genomics)**          | 🧬 **Personalized Medicine: Drug Response Modelling with Gene Expression**                | **PCA, Clustering, Regression**                             | **Planned**   |
 | 4 | **FinTech**                    | 💰 **Investment & M\&A Prediction Framework**                                             | **Equity Valuation Metrics, ML Clustering, Regression**     | **Completed**   |
