@@ -14,17 +14,18 @@ Each project in this portfolio follows a **structured, research-backed pipeline*
 
 ### Live GitHub Projects Overview
 
-| # | Domain                         | Project Title                                                                             | Techniques Used                                             | Status        |
-| - | ------------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ------------- |
-| 1 | **Solar Physics**              | ☀️ **Solar Weather Time Series Analysis & Prediction** <br> *(AI for Solar Flares & CME)* | **LSTM, Fourier Transform, Regression**                     | **Completed**   |
-| 2 | **FinCrime (AML)**             | 🛡️ **Anti-Money Laundering Detection System** <br> *(Unified Rules + ML)*                | **Rule-based Logic, Isolation Forest, Red Flag Indicators** | **Completed**  |
-| 3 | **Pharma (Genomics)**          | 🧬 **Personalized Medicine: Drug Response Modelling with Gene Expression**                | **PCA, Clustering, Regression**                             | **Completed**   |
-| 4 | **FinTech**                    | 💰 **Investment & M\&A Prediction Framework**                                             | **Equity Valuation Metrics, ML Clustering, Regression**     | **Completed**   |
-| 5 | **Econometrics**               | 📈 **Fuel Price Index vs Transport Inflation (India)**                                    | **Linear Regression, Bivariate Analysis**                   | **Completed** |
-| 6 | **Econometrics (Forecasting)** | 📊 **Sectoral Inflation Forecasting** <br> *(Food, Fuel, Transport CPI)*                  | **Time Series Analysis, Multi-variate Regression**          | **Upcoming**  |
-| 7	| **Automotive CV**	             | 🚦 **Traffic Sign Recognition (GTSRB)(DL for Autonomous Driving)**                         |  **CNN, Transfer Learning, Image Augmentation**             | **Planned**  |
-| 8 | **Automotive Analytics**       | ⚙️ **Vehicle Maintenance Cost Prediction**                                                 |  **Regression, EDA, XGBoost**                               | **Planned**  |
-| 9 | **Smart Mobility**             | 🔋 **EV Charging Station Recommender System**                                              |  **GeoFiltering, Recommender Systems, Haversine Distance**  | **Planned**  |
+| #️⃣ | Domain                      | Project Title (Folder)                                                                           | Objective                                                 | Techniques Used                                         | Status         |
+| --- | --------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------- | -------------- |
+| 1   | 🌞 Solar Physics            | **Solar Weather Time Series Analysis & Prediction**<br>(`solar_weather_forecasting/`)            | Predict solar flares & CMEs using AI                      | LSTM, Fourier Transform, Regression                     | ✅ Completed    |
+| 2   | 🛡️ FinCrime (AML)          | **Anti-Money Laundering Detection System**<br>(`aml_detection_system/`)                          | Detect suspicious transactions using hybrid rules & ML    | Rule-based Logic, Isolation Forest, Red Flag Indicators | ✅ Completed    |
+| 3   | 🧬 Genomics                 | **Personalized Medicine: Drug Response Modelling**<br>(`personalized_medicine_gene_expression/`) | Predict drug efficacy from gene expression data           | PCA, Clustering, Regression                             | ✅ Completed    |
+| 4   | 💰 FinTech                  | **Investment & M\&A Prediction Framework**<br>(`fintech_mna_prediction/`)                        | Forecast M\&A likelihood using market & valuation signals | Equity Valuation, Clustering, Regression                | ✅ Completed    |
+| 5   | 📈 Econometrics             | **Fuel Price Index vs Transport Inflation (India)**<br>(`fuel_inflation_analysis/`)              | Analyze fuel prices’ effect on transport inflation        | Bivariate Analysis, Linear Regression                   | ✅ Completed    |
+| 6   | 📊 Econometrics Forecasting | **Sectoral Inflation Forecasting**<br>(`sectoral_inflation_forecast/`)                           | Forecast food, fuel, and transport CPI over time          | Time Series Analysis, Multivariate Regression           | ⏳ Upcoming     |
+| 7   | 🧮 Causal Inference         | **Minimum Wage Policy Impact Analysis**<br>(`causal_minwage_policy/`)                            | Evaluate how wage hikes affect poverty/employment         | DiD, Panel Regression, Counterfactuals                  | ✅ Completed    |
+| 8   | 🧾 Income Inequality        | **Income Tax vs Gini Coefficient Study**<br>(`gini_income_tax_analysis/`)                        | Explore how progressive taxes affect inequality           | Multivariate Regression, Gini Index                     | 🔄 In Progress |
+| 9   | 📉 Macroeconomics           | **Inflation Shock Modeling**<br>(`inflation_shock_modeling/`)                                    | Forecast macro-level shocks from food & fuel prices       | ARIMA/XGBoost, Price Elasticity, Volatility Mapping     | 🔄 In Progress |
+
 
 ---
 
