@@ -14,17 +14,17 @@ Each project in this portfolio follows a **structured, research-backed pipeline*
 
 ### Live GitHub Projects Overview
 
-| #️⃣ | Domain                      | Project Title (Folder)                                                                           | Objective                                                 | Techniques Used                                         | Status         |
-| --- | --------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------- | ------------------------------------------------------- | -------------- |
-| 1   | 🌞 Solar Physics            | **Solar Weather Time Series Analysis & Prediction**            | Predict solar flares & CMEs using AI                      | LSTM, Fourier Transform, Regression                     | ✅ Completed    |
-| 2   | 🛡️ FinCrime (AML)          | **Anti-Money Laundering Detection System**                          | Detect suspicious transactions using hybrid rules & ML    | Rule-based Logic, Isolation Forest, Red Flag Indicators | ✅ Completed    |
-| 3   | 🧬 Genomics                 | **Personalized Medicine: Drug Response Modelling** | Predict drug efficacy from gene expression data           | PCA, Clustering, Regression                             | ✅ Completed    |
-| 4   | 💰 FinTech                  | **Investment & M\&A Prediction Framework**                        | Forecast M\&A likelihood using market & valuation signals | Equity Valuation, Clustering, Regression                | ✅ Completed    |
-| 5   | 📈 Econometrics             | **Fuel Price Index vs Transport Inflation (India)**              | Analyze fuel prices’ effect on transport inflation        | Bivariate Analysis, Linear Regression                   | ✅ Completed    |
-| 6   | 📊 Econometrics Forecasting | **Sectoral Inflation Forecasting**                           | Forecast food, fuel, and transport CPI over time          | Time Series Analysis, Multivariate Regression           | ✅ Completed     |
-| 7   | 🧮 Causal Inference         | **Minimum Wage Policy Impact Analysis**                            | Evaluate how wage hikes affect poverty/employment         | DiD, Panel Regression, Counterfactuals                  | ✅ Completed    |
-| 8   | 🧾 Income Inequality        | **Income Tax vs Gini Coefficient Study**                        | Explore how progressive taxes affect inequality           | Multivariate Regression, Gini Index                     | ✅ Completed |
-| 9   | 📉 Macroeconomics           | **Inflation Shock Modeling**                                    | Forecast macro-level shocks from food & fuel prices       | ARIMA/XGBoost, Price Elasticity, Volatility Mapping     | ✅ Completed |
+#️⃣ | Domain | Project Title (Folder) | Objective | Techniques Used | Status
+----|--------|-------------------------|-----------|------------------|-------
+1 | 🌞 Solar Physics | Solar Weather Time Series Analysis & Prediction | Predict solar flares & CMEs using AI | LSTM Neural Networks, Time Windowing, MinMax Scaling, Visualization | ✅ Completed
+2 | 🛡️ FinCrime (AML) | Anti-Money Laundering Detection System | Detect suspicious transactions using hybrid rules & ML | Rule-Based Logic, Isolation Forest, Red Flag Indicators, ETL with pandas/sklearn | ✅ Completed
+3 | 🧬 Genomics | Personalized Medicine: Drug Response Modelling | Predict drug efficacy from gene expression data | PCA, Logistic Regression, ROC-AUC, Confusion Matrix | ✅ Completed
+4 | 💰 FinTech | Investment & M&A Prediction Framework | Forecast M&A likelihood using market & valuation signals | Equity Valuation Ratios, Logistic Regression, KMeans Clustering, Preprocessing, Visualization | ✅ Completed
+5 | 📈 Econometrics | Fuel Price Index vs Transport Inflation (India) | Analyze fuel prices’ effect on transport inflation | Bivariate Regression, Correlation Analysis, R², MAE, RMSE | ✅ Completed
+6 | 📊 Econometrics Forecasting | Sectoral Inflation Forecasting | Forecast food, fuel, and transport CPI over time | ARIMA, Multivariate Regression, RMSE, R² Score | ✅ Completed
+7 | 🧮 Causal Inference | Minimum Wage Policy Impact Analysis | Evaluate how wage hikes affect poverty/employment | DiD Regression, DML with EconML, Counterfactuals | ✅ Completed
+8 | 🧾 Income Inequality | Income Tax vs Gini Coefficient Study | Explore how progressive taxes affect inequality | Simulated Data, Multivariate Linear Regression, Gini Index, Seaborn/Matplotlib | ✅ Completed
+9 | 📉 Macroeconomics | Inflation Shock Modeling | Forecast macro-level shocks from food & fuel prices | ARIMA, OLS Regression, Price Elasticity, Rolling Std. Deviation | ✅ Completed
 
 
 ---
