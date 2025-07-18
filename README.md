@@ -24,7 +24,7 @@ Each project in this portfolio follows a **structured, research-backed pipeline*
 | 6   | 📊 Econometrics Forecasting | **Sectoral Inflation Forecasting**                           | Forecast food, fuel, and transport CPI over time          | Time Series Analysis, Multivariate Regression           | ✅ Completed     |
 | 7   | 🧮 Causal Inference         | **Minimum Wage Policy Impact Analysis**                            | Evaluate how wage hikes affect poverty/employment         | DiD, Panel Regression, Counterfactuals                  | ✅ Completed    |
 | 8   | 🧾 Income Inequality        | **Income Tax vs Gini Coefficient Study**                        | Explore how progressive taxes affect inequality           | Multivariate Regression, Gini Index                     | ✅ Completed |
-| 9   | 📉 Macroeconomics           | **Inflation Shock Modeling**                                    | Forecast macro-level shocks from food & fuel prices       | ARIMA/XGBoost, Price Elasticity, Volatility Mapping     | 🔄 In Progress |
+| 9   | 📉 Macroeconomics           | **Inflation Shock Modeling**                                    | Forecast macro-level shocks from food & fuel prices       | ARIMA/XGBoost, Price Elasticity, Volatility Mapping     | ✅ Completed |
 
 
 ---
