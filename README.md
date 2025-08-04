@@ -19,7 +19,7 @@ I’m **Sai Sarat Chandra**, a passionate learner in the field of **Data Science
 
 ## 📂 My GitHub Portfolio: The Super 9 Projects
 
-A curated set of interdisciplinary ML projects developed with light-weight, interpretable code and deployment-ready structure.
+A curated set of interdisciplinary ML projects i learned and developed with light-weight, interpretable code and deployment-ready structure. The below projects are a part of self initiated learning process.
 
 #️⃣ | Domain | Project Title (Folder) | Objective | Techniques Used | Status
 ----|--------|-------------------------|-----------|------------------|-------
